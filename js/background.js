@@ -8,13 +8,14 @@ const images = [
     "7.jpeg"
 ];
 
-const chosenImage = images[Math.floor(Math.random()*images.length)];
 
 const bgImage = document.createElement("img");
 
 function randomImg() {
+    const chosenImage = images[Math.floor(Math.random()*images.length)];
     document.body.style.backgroundImage=`url(img/${chosenImage})`;
 }
 
 randomImg();
+
 setInterval(randomImg,5000);
