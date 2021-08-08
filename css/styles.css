@@ -34,7 +34,8 @@ button {
 }
 
 .ipt {
-    size: 30px;
+    color: white;
+    font-family: monospace;
     border-top: none;
     border-left: none;
     border-right: none;
