@@ -34,12 +34,14 @@ button {
 }
 
 .ipt {
+    size: 30px;
     color: white;
     font-family: monospace;
+    font-size: 30px;
     border-top: none;
     border-left: none;
     border-right: none;
     background-color: transparent;
-    border-bottom: 3px solid plum;
+    border-bottom: 3px solid black;
 
 }
