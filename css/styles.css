@@ -18,7 +18,7 @@ h1 {
     color: white;
     font-family: monospace;
 }
-#todo-list {
+#todo-list, #weather {
     color: white;
     font-family: monospace;
 }
