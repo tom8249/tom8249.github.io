@@ -4,12 +4,10 @@
 
 body {
     height: 100vh;
+    background-size: cover;
+    background-position: center;
 }
 
-.bgimg {
-    background-position: center;
-    background-size: cover;
-}
 
 h1 {
     color: white;
