@@ -12,6 +12,9 @@ const chosenImage = images[Math.floor(Math.random()*images.length)];
 
 const bgImage = document.createElement("img");
 
-bgImage.src = `img/${chosenImage}`;
+function randomImg() {
+    document.body.style.backgroundImage=`url(img/${chosenImage})`;
+}
 
-document.body.appendChild(bgImage);
+randomImg();
+setInterval(randomImg,10000);
