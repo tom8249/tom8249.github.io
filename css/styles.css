@@ -2,6 +2,10 @@
     display: none;
 }
 
+body {
+    height: 100vh;
+}
+
 h1 {
     font-family: monospace;
 }
