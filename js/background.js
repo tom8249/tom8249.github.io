@@ -17,4 +17,4 @@ function randomImg() {
 }
 
 randomImg();
-setInterval(randomImg,5000);
+setInterval(randomImg(),5000);
