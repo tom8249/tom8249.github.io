@@ -33,7 +33,7 @@ button {
     background-color: transparent;
 }
 
-#todo-form {
+.ipt {
     border-top: none;
     border-left: none;
     border-right: none;
