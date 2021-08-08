@@ -12,3 +12,10 @@ body {
     color: white;
     font-family: monospace;
 }
+
+h2 {
+    font-size: x-large;
+}
+h1 {
+    font-size: large;
+}
