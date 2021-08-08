@@ -3,11 +3,12 @@
 }
 
 body {
-    display: flex;
+    display: inline-block;
     height: 100vh;
     background-size: cover;
     background-position: center;
-    justify-content: center;
+    vertical-align: middle;
+
 }
 
 h2 {
