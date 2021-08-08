@@ -8,13 +8,7 @@ body {
     background-position: center;
 }
 
-
-h1 {
-    color: white;
-    font-family: monospace;
-}
-
-h2 {
+.h, .tdl {
     color: white;
     font-family: monospace;
 }
